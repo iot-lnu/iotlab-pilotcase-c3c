@@ -52,3 +52,7 @@ Lastly, chemical reactions like oxidation can occur when biomass is exposed to o
 ## Prototype
 
 ## Bio+
+
+The unexpected yet promising outcome of this project is the initiation of a substantial project application for Energimyndigheten. This initiative is a collaborative effort involving reputed institutions such as the Swedish Agricultural University (SLU), Linnaeus University, Linköping University, RISE, C3C, and FLIR. Spearheaded by C3C and facilitated through their existing connections with SLU, this collaborative endeavor highlights the remarkable synergies achieved through industry-academia cooperation.
+
+The prospective project holds immense potential for C3C, presenting them with an avenue to further their mission in a significant way. It is a vivid illustration of the tangible benefits of industry-academia partnerships, opening up a realm of opportunities that were previously unexplored. This collaboration not only bodes well for the growth and development of C3C as a company but also stands as a testament to the innovative spirit fostered through this project, potentially leading to groundbreaking developments in the field.
